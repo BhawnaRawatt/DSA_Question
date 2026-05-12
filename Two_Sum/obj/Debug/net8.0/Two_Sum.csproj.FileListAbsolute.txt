@@ -1,0 +1,14 @@
+C:\Bhawna\DSA_QUESTION\Two_Sum\bin\Debug\net8.0\Two_Sum.exe
+C:\Bhawna\DSA_QUESTION\Two_Sum\bin\Debug\net8.0\Two_Sum.deps.json
+C:\Bhawna\DSA_QUESTION\Two_Sum\bin\Debug\net8.0\Two_Sum.runtimeconfig.json
+C:\Bhawna\DSA_QUESTION\Two_Sum\bin\Debug\net8.0\Two_Sum.dll
+C:\Bhawna\DSA_QUESTION\Two_Sum\bin\Debug\net8.0\Two_Sum.pdb
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.AssemblyInfoInputs.cache
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.AssemblyInfo.cs
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.csproj.CoreCompileInputs.cache
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.dll
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\refint\Two_Sum.dll
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.pdb
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\Two_Sum.genruntimeconfig.cache
+C:\Bhawna\DSA_QUESTION\Two_Sum\obj\Debug\net8.0\ref\Two_Sum.dll

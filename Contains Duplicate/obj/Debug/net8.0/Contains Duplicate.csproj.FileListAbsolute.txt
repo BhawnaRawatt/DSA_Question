@@ -1,0 +1,14 @@
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\bin\Debug\net8.0\Contains Duplicate.exe
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\bin\Debug\net8.0\Contains Duplicate.deps.json
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\bin\Debug\net8.0\Contains Duplicate.runtimeconfig.json
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\bin\Debug\net8.0\Contains Duplicate.dll
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\bin\Debug\net8.0\Contains Duplicate.pdb
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.AssemblyInfoInputs.cache
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.AssemblyInfo.cs
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.csproj.CoreCompileInputs.cache
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.dll
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\refint\Contains Duplicate.dll
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.pdb
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\Contains Duplicate.genruntimeconfig.cache
+C:\Bhawna\DSA_QUESTION\Contains Duplicate\obj\Debug\net8.0\ref\Contains Duplicate.dll
