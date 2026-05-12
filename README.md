@@ -12,10 +12,10 @@ A collection of Data Structures and Algorithms problems solved using [Language, 
 
 ## 📌 Arrays
 
-| # | Problem | Solution | Difficulty | Platform |
-|---|---------|----------|------------|----------|
-| 1 | Two Sum | [Link](./Arrays/TwoSum.cpp) | Easy | LeetCode |
-| 2 | Best Time To Buy And Sell Stock | [Link](./Arrays/BestTimeToBuyAndSellStock.cpp) | Easy | LeetCode |
-| 3 | Contain Duplicate | [Link](./Dictionary/ContainDuplicate.cpp) | Easy | LeetCode |
+| # | Problem | Difficulty | Platform |
+|---|---------|------------|----------|
+| 1 | Two Sum | Easy | LeetCode |
+| 2 | Best Time To Buy And Sell Stock | Easy | LeetCode |
+| 3 | Contain Duplicate | Easy | LeetCode |
 
 
