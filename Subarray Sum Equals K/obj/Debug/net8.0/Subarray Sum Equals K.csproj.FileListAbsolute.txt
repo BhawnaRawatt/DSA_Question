@@ -1,0 +1,14 @@
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\bin\Debug\net8.0\Subarray Sum Equals K.exe
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\bin\Debug\net8.0\Subarray Sum Equals K.deps.json
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\bin\Debug\net8.0\Subarray Sum Equals K.runtimeconfig.json
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\bin\Debug\net8.0\Subarray Sum Equals K.dll
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\bin\Debug\net8.0\Subarray Sum Equals K.pdb
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.AssemblyInfoInputs.cache
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.AssemblyInfo.cs
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.csproj.CoreCompileInputs.cache
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.dll
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\refint\Subarray Sum Equals K.dll
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.pdb
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\Subarray Sum Equals K.genruntimeconfig.cache
+C:\Bhawna\DSA_QUESTION\Subarray Sum Equals K\obj\Debug\net8.0\ref\Subarray Sum Equals K.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bhawna\\DSA_QUESTION\\Product of Array Except Self\\Product of Array Except Self\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C12FD2-5680-4314-AE3D-15DB5C999AA9}|Product of Array Except Self.csproj|c:\\bhawna\\dsa_question\\product of array except self\\product of array except self\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C12FD2-5680-4314-AE3D-15DB5C999AA9}|Product of Array Except Self.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bhawna\\DSA_QUESTION\\Product of Array Except Self\\Product of Array Except Self\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Bhawna\\DSA_QUESTION\\Product of Array Except Self\\Product of Array Except Self\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:06:55.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
