@@ -7,6 +7,7 @@ A collection of Data Structures and Algorithms problems solved using [Language, 
 - ## 📑 Table of Contents
 1. [Arrays](#-arrays)
 2. [Dictionary](#-dictionary)
+3. [Two Pointer](#-twoPointer)
 
 
 
