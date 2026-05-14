@@ -1,0 +1,14 @@
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\bin\Debug\net8.0\Valid Palindrome.exe
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\bin\Debug\net8.0\Valid Palindrome.deps.json
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\bin\Debug\net8.0\Valid Palindrome.runtimeconfig.json
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\bin\Debug\net8.0\Valid Palindrome.dll
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\bin\Debug\net8.0\Valid Palindrome.pdb
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.AssemblyInfoInputs.cache
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.AssemblyInfo.cs
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.csproj.CoreCompileInputs.cache
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.dll
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\refint\Valid Palindrome.dll
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.pdb
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\Valid Palindrome.genruntimeconfig.cache
+C:\Bhawna\DSA_QUESTION\Valid Palindrome\obj\Debug\net8.0\ref\Valid Palindrome.dll
