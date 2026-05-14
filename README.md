@@ -1,5 +1,5 @@
 # 🚀 DSA Problem Solving
-A collection of Data Structures and Algorithms problems solved using [Language, e.g., C++ or Java].
+A collection of Data Structures and Algorithms problems solved using [Language, e.g., C# ].
 
 ## 📊 Progress Tracker
 - **Total Problems Solved:** 7
