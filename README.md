@@ -2,7 +2,7 @@
 A collection of Data Structures and Algorithms problems solved using [Language, e.g., C++ or Java].
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 7
   
 - ## 📑 Table of Contents
 1. [Arrays](#-arrays)
